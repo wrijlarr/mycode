@@ -14,27 +14,29 @@ def main():
     movies = pd.read_excel(excel_file)
 
     # show the first five rows of our DF
-    # DF has 5 rows and 25 columns (indexed by integer)
-    print(movies.head())
-
-    # Choose the first column "Title" as
-    # index (index=0)
-    movies_sheet1 = pd.read_excel(excel_file, sheet_name=0, index_col=0)
-
-    # DF has 5 rows and 24 columns (indexed by title)
-    # print the top 10 movies in the dataframe
-    print(movies_sheet1.head())
-
-    # export 5 movies from the top dataframe to excel
-    movies_sheet1.head(5).to_excel("5movies.xlsx")
-
-    # export 5 movies from the top of the dataframe to json
-    movies_sheet1.head(5).to_json("5movies.json")
-
-    # export 5 movies from the top of the dataframe to csv
-    movies_sheet1.head(5).to_csv("5movies.csv")
-
-
-if __name__ == "__main__":
-    main()
-
+    # DF has 
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+~                                                                                                
+-- INSERT --                                                                   17,14         All
+[ttyd] 0:vim*                                             "student@bchd: ~/mycod" 18:07 10-Jan-23
